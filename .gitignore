@@ -2,3 +2,5 @@
 models/*
 results/*
 datasets/*
+**/*.pyc
+pkl/*
